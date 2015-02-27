@@ -1,0 +1,6 @@
+G:\Semester 8 Spring 15\Design Defects\Visula Studio\Assignment 1 Q 2\Assignment 1 Q 2\bin\Debug\Assignment 1 Q 2.exe.config
+G:\Semester 8 Spring 15\Design Defects\Visula Studio\Assignment 1 Q 2\Assignment 1 Q 2\obj\Debug\Assignment 1 Q 2.csprojResolveAssemblyReference.cache
+G:\Semester 8 Spring 15\Design Defects\Visula Studio\Assignment 1 Q 2\Assignment 1 Q 2\bin\Debug\Assignment 1 Q 2.exe
+G:\Semester 8 Spring 15\Design Defects\Visula Studio\Assignment 1 Q 2\Assignment 1 Q 2\bin\Debug\Assignment 1 Q 2.pdb
+G:\Semester 8 Spring 15\Design Defects\Visula Studio\Assignment 1 Q 2\Assignment 1 Q 2\obj\Debug\Assignment 1 Q 2.exe
+G:\Semester 8 Spring 15\Design Defects\Visula Studio\Assignment 1 Q 2\Assignment 1 Q 2\obj\Debug\Assignment 1 Q 2.pdb
